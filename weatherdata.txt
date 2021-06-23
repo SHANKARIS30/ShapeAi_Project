@@ -1,0 +1,10 @@
+Weather Stats for - DELHI || 23 Jun 2021 | 10:52:29 AM
+  Current temperature : 40.05 deg C
+  Current weather desc : haze
+  Current Humidity : 27%
+  Current wind speed : 1.54kmph
+Weather Stats for - RANCHI || 23 Jun 2021 | 10:53:57 AM
+  Current temperature : 27.06 deg C
+  Current weather desc : broken clouds
+  Current Humidity : 83%
+  Current wind speed : 3.09kmph
